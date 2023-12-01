@@ -1,9 +1,7 @@
-Number of Vehicles,battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle,,
-LDVs,1918.0,0.0,557963.0,2841.0,1409.0,204.0,14.0,,
-HDVs,1.0,0.0,189.0,1516.0,0.0,14.0,0.0,,
-aircraft,0.0,0.0,0.0,92.0,0.0,0.0,0.0,,
-rail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
-ships,0.0,0.0,119616.0,0.0,0.0,0.0,0.0,,
-motorbikes,0.0,0.0,30828.0,0.0,0.0,0.0,0.0,,
-,,,,,,,,,
-,,,,,,,,,
+Number of Vehicles,battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle
+LDVs,1617.0,180.0,468468.0,1995.0,1120.0,151.0,14.0
+HDVs,0.0,196.0,138.0,1043.0,0.0,10.0,0.0
+aircraft,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+rail,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ships,0.0,0.0,27856.0,6569.0,0.0,0.0,0.0
+motorbikes,0.0,0.0,18947.0,0.0,0.0,0.0,0.0
